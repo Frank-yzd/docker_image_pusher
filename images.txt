@@ -2,3 +2,4 @@ justsong/one-api:v0.6.8
 justsong/one-api:v0.6.7
 sonarqube:8.3.1-community
 sonarqube:10.6.0-community
+postgres:12
