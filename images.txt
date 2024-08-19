@@ -5,3 +5,4 @@ sonarqube:10.6.0-community
 postgres:12
 node:20.14.0-alpine
 langgenius/dify-api:0.7.0
+langgenius/dify-web:0.7.0
