@@ -11,3 +11,4 @@ ubuntu/squid:latest
 nginx:latest
 redis:6-alpine
 qdrant/qdrant:v1.9.7
+mongodb:v4.4.29
