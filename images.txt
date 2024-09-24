@@ -1,14 +1,1 @@
-justsong/one-api:v0.6.8
-justsong/one-api:v0.6.7
-sonarqube:8.3.1-community
-sonarqube:10.6.0-community
-postgres:12
-node:20.14.0-alpine
-langgenius/dify-api:0.7.0
-langgenius/dify-web:0.7.0
-langgenius/dify-sandbox:0.2.1
-ubuntu/squid:latest
-nginx:latest
-redis:6-alpine
-qdrant/qdrant:v1.9.7
-mongodb:v4.4.29
+mongo:v4.4.29
