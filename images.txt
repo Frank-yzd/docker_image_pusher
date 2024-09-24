@@ -1,1 +1,1 @@
-mongo:v4.4.29
+docker.io/mongo:4.4.29
