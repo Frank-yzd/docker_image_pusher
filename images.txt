@@ -1,1 +1,1 @@
-danielqsj/kafka-exporter:1.2.0
+danielqsj/kafka-exporter:v1.2.0
