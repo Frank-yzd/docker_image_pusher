@@ -1,1 +1,1 @@
-kubernetesui/metrics-scraper:v1.0.6
+mirrorgooglecontainers/heapster-amd64:v1.5.4
