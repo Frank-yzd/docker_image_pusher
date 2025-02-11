@@ -1,1 +1,1 @@
-mirrorgooglecontainers/heapster-amd64:v1.5.4
+grafana/grafana:9.3.6
