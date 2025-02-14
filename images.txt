@@ -1,1 +1,1 @@
-grafana/grafana:9.3.6
+justsong/one-api:v0.6.11-preview.6
