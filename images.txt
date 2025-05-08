@@ -1,1 +1,1 @@
-apache/kafka:4.0.0
+kafkamanager/kafka-manager:2.0.0.2
