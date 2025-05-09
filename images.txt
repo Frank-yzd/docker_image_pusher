@@ -1,1 +1,1 @@
-wurstmeister/zookeeper-exporter:0.1.2
+danielqsj/kafka-exporter:v1.6.0
