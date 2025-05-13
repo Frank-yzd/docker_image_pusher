@@ -1,1 +1,1 @@
-wurstmeister/zookeeper-exporter:latest
+redis:7.2-alpine
