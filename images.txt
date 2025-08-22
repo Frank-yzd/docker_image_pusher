@@ -9,3 +9,4 @@ minio/minio:RELEASE.2025-06-13T11-33-47Z-cpuv1
 mysql:8.4.5
 nsqio/nsq:v1.2.1
 opencoze/opencoze:latest
+neo4j:5.22.0
