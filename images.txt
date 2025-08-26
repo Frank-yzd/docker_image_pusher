@@ -10,4 +10,4 @@ mysql:8.4.5
 nsqio/nsq:v1.2.1
 opencoze/opencoze:latest
 neo4j:5.22.0
-neo4j:5.26.0
+neo4j:5.26.10
