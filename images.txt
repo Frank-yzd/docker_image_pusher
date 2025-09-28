@@ -1,1 +1,2 @@
 openkruise/kruise-manager:v1.8.0
+openkruise/kruise-daemon:v1.8.0
