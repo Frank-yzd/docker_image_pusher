@@ -1,1 +1,1 @@
-neo4j:5.26.10
+openkruise/kruise-manager:v1.8.0
