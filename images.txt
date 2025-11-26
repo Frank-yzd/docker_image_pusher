@@ -1,2 +1,5 @@
-openkruise/kruise-manager:v1.8.0
-openkruise/kruise-daemon:v1.8.0
+hub.icert.top/opensearchproject/opensearch:2.19.1
+infiniflow/infinity:v0.6.5
+mysql:8.0.39
+quay.io/minio/minio:RELEASE.2025-06-13T11-33-47Z
+valkey/valkey:8
