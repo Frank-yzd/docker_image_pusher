@@ -1,1 +1,1 @@
-infiniflow/text-embeddings-inference:cpu-1.8
+kibana:8.11.3
