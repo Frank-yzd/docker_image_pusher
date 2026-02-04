@@ -1,1 +1,1 @@
-ghcr.io/virt-manager/virt-manager:latest
+python:3.13-slim
