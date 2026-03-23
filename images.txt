@@ -1,4 +1,7 @@
-jumpserver/jms_koko:v4.10.16
-jumpserver/jms_lion:v4.10.16
-jumpserver/jms_chen:v4.10.16
-jumpserver/jms_magnus:v4.10.16
+redis:7.4.6-bookworm
+postgres:16.10-bookworm
+jumpserver/core:v4.10.16-ce
+jumpserver/koko:v4.10.16-ce
+jumpserver/lion:v4.10.16-ce
+jumpserver/chen:v4.10.16-ce
+jumpserver/web:v4.10.16-ce
